@@ -1,0 +1,6 @@
+.terraform
+node_modules
+dist
+.serverless
+.nyc_output
+.DS_Store
